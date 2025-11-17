@@ -6,3 +6,6 @@ def master():
 
 def release_wzr():
     assert True
+
+def sss():
+    assert True
