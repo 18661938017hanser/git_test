@@ -9,3 +9,6 @@ def release_wzr():
 
 def sss():
     assert True
+
+def aaaa():
+    assert True
